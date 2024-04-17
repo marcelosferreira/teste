@@ -1,0 +1,31 @@
+15 - etapa 1 (fiz o padrão para USA e o texto "considerar grau de pureza H2" estava errado para todos e corrigi
+16 - etapa 2 (em km)
+18 - etapa 2 (textinho do incluindo purificação)
+19 - etapa 2 (pem altera funcoes)
+20 done
+21 - etapa 2 (fator escala add %)
+22 - etapa 2 (Kg por kg)
+23 - etapa 2 (adimensional)
+
+25 - etata 3 (varias alteraçoes)
+26 etapa 3 textinho
+27 etapa 3 textinho
+28 et 3 textih
+
+
+32 et 4 textinho
+
+34 et 4 textinho
+35 et 4 textyinho
+36 et 4 ao entrar em outro não zerar os valores
+
+37 et 5 oxigenio tds opcoes ficar cinza
+38 et 5 preco venda ficar cinza no não
+39 et 5 textinho
+40 et 5 do upload nos últimos, já tinha colocado
+41 et 1 e 2 textinho
+
+
+
+
+

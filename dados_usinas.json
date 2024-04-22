@@ -1,0 +1,29 @@
+[
+    {
+        "Nome da usina": "E\u00f3lica 1",
+        "Selecionar": "0",
+        "Fonte de energia": "E\u00f3lica",
+        "Latitude": "-5.127838",
+        "Longitude": "-36.453683",
+        "Pot\u00eancia [MW]": "68.47",
+        "Capacidade do reservat\u00f3rio em caso de PCH [h]": "0"
+    },
+    {
+        "Nome da usina": "E\u00f3lica 2",
+        "Selecionar": "0",
+        "Fonte de energia": "E\u00f3lica",
+        "Latitude": "-5.127838",
+        "Longitude": "-36.453683",
+        "Pot\u00eancia [MW]": "60.12",
+        "Capacidade do reservat\u00f3rio em caso de PCH [h]": "0"
+    },
+    {
+        "Nome da usina": "Solar 1",
+        "Selecionar": "0",
+        "Fonte de energia": "FV",
+        "Latitude": "-5.127838",
+        "Longitude": "-36.453683",
+        "Pot\u00eancia [MW]": "68.47",
+        "Capacidade do reservat\u00f3rio em caso de PCH [h]": "0"
+    }
+]
